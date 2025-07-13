@@ -1,4 +1,4 @@
-<h1>Monitoring & Alerting with Prometheus, Grafana, and AI</h1>
+<h1>AI Powered Monitoring with Prometheus and Grafana</h1>
 
 
 <h2>Description</h2>
@@ -19,18 +19,18 @@ A smart monitoring and alerting system using Prometheus, Grafana, and AI. It col
 
 <p align="center">
 Setting Up Monitoring with Prometheus
-<img src="https://i.imgur.com/UsJPrx0.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UsJPrx0.jpeg"/>
 <br />
 <br />
 Configure Grafana to visualize real-time data from Prometheus <br/>
-<img src="https://i.imgur.com/Wkc6WbG.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Wkc6WbG.jpeg" />
 <br />
 <br />
 Export metrics & train a machine learning model to predict <br/>
-<img src="https://i.imgur.com/BaTzRW4.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BaTzRW4.jpeg" />
 <br />
 <br />
 Implement AI-Driven Alerts <br/>
-<img src="https://i.imgur.com/Z0DzCxH.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z0DzCxH.jpeg" />
 <br />
 <br />
