@@ -1,4 +1,4 @@
-<h1>AI Powered Monitoring with Prometheus and Grafana</h1>
+<h1>AI-Powered Monitoring with Prometheus and Grafana</h1>
 
 
 <h2>Description</h2>
